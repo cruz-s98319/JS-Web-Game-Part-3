@@ -1,3 +1,4 @@
+//
 function newImage(url, left, bottom){
     let image = document.createElement('img')
     image.src = url
